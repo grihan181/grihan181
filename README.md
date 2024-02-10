@@ -1,14 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=grihan181" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avanesyan+Grigorii!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&background=FFFFFF00&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;+I'm+Avanesyan+Grigorii!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate backend developer and DevOps Engineer from Russia</h3>
 
 <br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grihan181&label=Profile%20views&color=0e75b6&style=flat" alt="grihan181" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
