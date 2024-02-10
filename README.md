@@ -21,6 +21,21 @@
   <img src="https://skillicons.dev/icons?i=java,spring,selenium,postgres,mysql,html,css,githubactions,git,github,gitlab" />
   <img src="https://skillicons.dev/icons?i=kafka,maven,bash,docker,kubernetes,prometheus,grafana,graphql,jenkins,linux,postman,regex" /><br>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/grihan181/grihan181/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grihan181&show_icons=true&locale=en&layout=compact" alt="grihan181" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grihan181&" alt="grihan181" /></p>
